@@ -1,5 +1,5 @@
 
-<b><h1>Admin Vulnerability Scanner Tool⚡</h1><b>
+<b><h1>Github Start Counter Tool⚡</h1><b>
 
 <h3><b>Installation : </b></h3>
 <br>
@@ -24,7 +24,7 @@ pkg install python2 && git clone https://github.com/darkhunter141/Github-Star-Co
 <br>
 <h3><b>📸Screenshot</b></h3>
 <br>
-<img src="">
+<img src="https://raw.githubusercontent.com/darkhunter141/Github-Star-Counter/main/IMG_20210512_110722.jpg">
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
